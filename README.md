@@ -17,7 +17,7 @@ Hacktoberfest is DigitalOcean’s annual event that encourages people to contrib
 - Write simple program (e.g. calculator)
 - Create pull request to one of given programming language folders
 - Wait for my approval
-``Remember that you must create at least 4 PRs to get t-shirt``
+- ``Remember that you must create at least 4 PRs to get t-shirt``
 
 ## Contribution Rules
 - Pull requests can be submitted to any opted-in repository on GitHub or GitLab.
