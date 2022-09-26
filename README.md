@@ -13,6 +13,9 @@
 
 Hacktoberfest is DigitalOcean’s annual event that encourages people to contribute to open source throughout October
 
+## How to contribute?
+
+
 
 ## Contribution Rules
 - Pull requests can be submitted to any opted-in repository on GitHub or GitLab.
