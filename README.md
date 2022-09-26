@@ -19,6 +19,14 @@ Hacktoberfest is DigitalOcean’s annual event that encourages people to contrib
 - Wait for my approval
 - ``Remember that you must create at least 4 PRs to get t-shirt``
 
+## Available repositories
+[![Python](https://img.shields.io/badge/Repository-Python-pink.svg)](https://github.com/Mewwaa/hacktoberfest2022/tree/main/Python)
+[![C++](https://img.shields.io/badge/Repository-C++-violet.svg)](https://github.com/Mewwaa/hacktoberfest2022/tree/main/C%2B%2B)
+[![JavaScript](https://img.shields.io/badge/Repository-JavaScript-purple.svg)](https://github.com/Mewwaa/hacktoberfest2022/tree/main/JS)
+[![HTML](https://img.shields.io/badge/Repository-HTML-plum.svg)](https://github.com/Mewwaa/hacktoberfest2022/tree/main/HTML)
+[![Php](https://img.shields.io/badge/Repository-PHP-blueviolet.svg)](https://github.com/Mewwaa/hacktoberfest2022/tree/main/php)
+
+
 ## Contribution Rules
 - Pull requests can be submitted to any opted-in repository on GitHub or GitLab.
 - The pull request must contain commits you made yourself.
