@@ -19,7 +19,7 @@ Hacktoberfest is DigitalOcean’s annual event that encourages people to contrib
 - Wait for my approval
 - ``Remember that you must create at least 4 PRs to get t-shirt``
 
-##Add your name
+## Add your name
 Add your name to the ``CONTRIBUTORS.md`` file using the below convention:
 
 #### Name: [YOUR NAME]
