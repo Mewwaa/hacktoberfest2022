@@ -21,10 +21,10 @@ Hacktoberfest is DigitalOcean’s annual event that encourages people to contrib
 
 ## Valid project format
 Please make sure that you added a comment to your project with:
+!!! Otherwise, your project won't be accepted !!!
 - Contribution concept
 - GitHub name/real name
 - GitHub profile link
-!!! Otherwise, your project won't be accepted !!!
 
 ## Available repositories
 [![Python](https://img.shields.io/badge/Repository-Python-pink.svg)](https://github.com/Mewwaa/hacktoberfest2022/tree/main/Python)
