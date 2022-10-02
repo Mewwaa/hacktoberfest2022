@@ -19,6 +19,13 @@ Hacktoberfest is DigitalOcean’s annual event that encourages people to contrib
 - Wait for my approval
 - ``Remember that you must create at least 4 PRs to get t-shirt``
 
+## Valid project format
+Please make sure that you added a comment to your project with:
+- Contribution concept
+- GitHub name/real name
+- GitHub profile link
+!!! Otherwise, your project won't be accepted !!!
+
 ## Available repositories
 [![Python](https://img.shields.io/badge/Repository-Python-pink.svg)](https://github.com/Mewwaa/hacktoberfest2022/tree/main/Python)
 [![C++](https://img.shields.io/badge/Repository-C++-violet.svg)](https://github.com/Mewwaa/hacktoberfest2022/tree/main/C%2B%2B)
