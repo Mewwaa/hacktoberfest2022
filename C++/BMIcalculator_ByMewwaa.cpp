@@ -1,6 +1,7 @@
 /*
 Author: Ewa Zalewska
 Concept: BMI calculator
+All rights reserved
 Github: https://github.com/Mewwaa
 */
 
