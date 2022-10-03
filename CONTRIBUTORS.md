@@ -17,3 +17,8 @@
 - Place: India
 - Bio: Programmer
 - GitHub: [shafa45](https://github.com/shafa45)
+
+### Name: Shashank Singh
+- Place: India
+- Bio: Programmer
+- GitHub: [Shashank0271](https://github.com/Shashank0271)
