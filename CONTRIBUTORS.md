@@ -27,3 +27,8 @@
 - Place: India
 - Bio: Programmer
 - GitHub: [prabhkaur301](https://github.com/prabhkaur301)
+
+#### Name : Charumathi P
+ - Place : India
+ - Bio : 2nd year student
+ - GitHub : [charu210703](https://github.com/charu210703)
