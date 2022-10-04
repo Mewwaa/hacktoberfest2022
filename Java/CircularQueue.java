@@ -5,14 +5,16 @@ class MyCircularQueue {
     int front;
     int capacity;
 
+    //construtor for circular queue
     public MyCircularQueue(int k) {
         this.capacity=k;
         this.queue=new int[capacity];
         this.front=-1;
         this.rear=-1;    
     }
+
+    // method for traversing and printing the queue
     public void printQueue(){
-        
         if (!isEmpty()) {
             int i = front;
             System.out.println();
@@ -26,7 +28,7 @@ class MyCircularQueue {
         else System.out.println("[]");
     }
         
-    
+    // method for adding the value from the Rear
     public boolean enQueue(int value) {
         if(isFull())
             System.out.println("Queue is full");
@@ -41,6 +43,7 @@ class MyCircularQueue {
         return true;
     }
     
+    //method for removing the value from Front
     public boolean deQueue() {
         if(isEmpty()){
             System.out.println("Queue is empty");
@@ -56,6 +59,7 @@ class MyCircularQueue {
         return true;
     }
     
+    //method will return the Front value in queue
     public int Front() {
         if(isEmpty()){
             System.out.println("Queue is empty");
@@ -65,6 +69,7 @@ class MyCircularQueue {
         return queue[front];
     }
     
+    // method will return the Rear value
     public int Rear() {
          if(isEmpty()){
             System.out.println("Queue is empty");
@@ -74,12 +79,14 @@ class MyCircularQueue {
         return queue[rear];
     }
     
+    // this method will check whether the queue is empty or not
     public boolean isEmpty() {
        if(rear==-1 && front==-1)
            return true;
         return false;
     }
     
+    // for checking whether the queue is full or not
     public boolean isFull() {
         if((rear+1) % capacity==front)
             return true;
@@ -87,28 +94,28 @@ class MyCircularQueue {
     }
 }
 
+// main class
 public class Main
 {
 	public static void main(String[] args) {
+        // object of MyCircularQueue class created
 		MyCircularQueue q = new MyCircularQueue(10);
 		q.printQueue();
+        //adding values
 		q.enQueue(4);
 		q.enQueue(5);
 		q.enQueue(7);
 		q.enQueue(40);
 		q.printQueue();
+        //removing values
+		q.deQueue();
+		q.deQueue();
 		q.deQueue();
 		q.printQueue();
-		q.deQueue();
-		q.printQueue();
-		q.deQueue();
-		
 		System.out.println(q.Front());
 		System.out.println(q.Rear());
 		System.out.println(q.isEmpty());
-		q.deQueue();
-		q.deQueue();
-		q.deQueue();
+		
 		  
 	}
 }
