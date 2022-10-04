@@ -8,10 +8,6 @@
 - Bio: Programmer
 - GitHub: [DevGupta-ikr](https://github.com/DevGupta-ikr)
 
-
-
-
-
 ### Name: Rishabh Joshi
 - Place: India
 - Bio: Developer
@@ -27,7 +23,10 @@
 - Bio: Programmer
 - GitHub: [Shashank0271](https://github.com/Shashank0271)
 
-
+### Name: Prabhjot Kaur
+- Place: India
+- Bio: Programmer
+- GitHub: [prabhkaur301](https://github.com/prabhkaur301)
 
 ### Name: Gautam Jain
 - Place: India
