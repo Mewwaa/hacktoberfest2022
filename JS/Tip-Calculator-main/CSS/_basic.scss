@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size:62.5%;
+}
+body{
+    width:100%;
+  
+   
+    font-family: 'Space Mono', monospace;
+
+}
+a{
+    text-decoration: none;
+    font-size:1.5rem;
+    
+    font-style: italic;
+    color:#183c41;
+    text-align: center;
+    cursor: pointer;
+}
+input{
+    border:none;
+    scrollbar-width: 0;
+    
+}
+input:focus {
+    outline: none /* Removes the border when the input is clicked */
+  }
