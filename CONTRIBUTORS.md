@@ -8,6 +8,10 @@
 - Bio: Programmer
 - GitHub: [DevGupta-ikr](https://github.com/DevGupta-ikr)
 
+
+
+
+
 ### Name: Rishabh Joshi
 - Place: India
 - Bio: Developer
@@ -22,3 +26,10 @@
 - Place: India
 - Bio: Programmer
 - GitHub: [Shashank0271](https://github.com/Shashank0271)
+
+
+
+### Name: Gautam Jain
+- Place: India
+- Bio: MERN + Flutter Developer
+- GitHub: [Astrogeek77](https://github.com/Astrogeek77)
