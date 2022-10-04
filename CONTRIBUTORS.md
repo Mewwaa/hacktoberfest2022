@@ -22,3 +22,9 @@
 - Place: India
 - Bio: Programmer
 - GitHub: [Shashank0271](https://github.com/Shashank0271)
+
+
+### Name: Priyanka Jhamb
+- Place: India
+- Bio: Programmer
+- GitHub: [PriyankaJhamb](https://github.com/PriyankaJhamb)
