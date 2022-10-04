@@ -22,3 +22,8 @@
 - Place: India
 - Bio: Programmer
 - GitHub: [Shashank0271](https://github.com/Shashank0271)
+
+### Name: Prabhjot Kaur
+- Place: India
+- Bio: Programmer
+- GitHub: [prabhkaur301](https://github.com/prabhkaur301)
