@@ -39,7 +39,7 @@ Please make sure that you added a comment to your project with:
 [![Python](https://img.shields.io/badge/Repository-Python-pink.svg)](https://github.com/Mewwaa/hacktoberfest2022/tree/main/Python)
 [![C++](https://img.shields.io/badge/Repository-C++-violet.svg)](https://github.com/Mewwaa/hacktoberfest2022/tree/main/C%2B%2B)
 [![JavaScript](https://img.shields.io/badge/Repository-JavaScript-purple.svg)](https://github.com/Mewwaa/hacktoberfest2022/tree/main/JS)
-[![Java](https://img.shields.io/badge/Repository-PHP-blueviolet.svg)](https://github.com/Mewwaa/hacktoberfest2022/tree/main/Java)
+[![Java](https://img.shields.io/badge/Repository-Java-blueviolet.svg)](https://github.com/Mewwaa/hacktoberfest2022/tree/main/Java)
 [![HTML](https://img.shields.io/badge/Repository-HTML-plum.svg)](https://github.com/Mewwaa/hacktoberfest2022/tree/main/HTML)
 [![Php](https://img.shields.io/badge/Repository-PHP-blueviolet.svg)](https://github.com/Mewwaa/hacktoberfest2022/tree/main/php)
 
