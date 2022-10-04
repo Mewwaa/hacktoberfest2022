@@ -1,0 +1,16 @@
+$prime-bg:	#00494d;                 //- Very dark cyan: hsl(183, 100%, 15%)
+$heading-txt:	#5e7a7d;          //- Dark grayish cyan: hsl(186, 14%, 43%)
+$heading-txt-sec:	#7f9c9f;
+$main-bg:#c5e4e7;    
+$hover:     #76e4d5;         //hsl(185, 41%, 84%)
+$input-fields:	#f4fafa;           //hsl(189, 41%, 97%)
+$white:#fff;
+$prime-txt: #16b693; 
+
+@mixin flex($direction,$align,$justify){
+    display:flex;
+    flex-direction: $direction;
+    align-items:$align;
+    justify-content: $justify;
+
+}

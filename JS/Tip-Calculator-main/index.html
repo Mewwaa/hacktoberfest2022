@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Mono&display=swap"
+      rel="stylesheet"
+    />
+    <link href="./CSS/style.css" rel="stylesheet" />
+
+    <title>Tip calculator app</title>
+  </head>
+
+  <body>
+    <main class="container">
+      <div class="logo">
+        <img src="./images/logo.svg" alt="splitter logo" />
+      </div>
+      <div class="main-container">
+        <div class="col-1 main-cols">
+          <div class="bill input-container">
+            <h5>Bill</h5>
+            <input
+              type="number"
+              name="Bill"
+              id="Bill"
+              class="input-form"
+              placeholder="0"
+            />
+            <img src="./images/icon-dollar.svg" alt=""/>
+          </div>
+          <div class="tip input-container">
+            <h5>Select Tip</h5>
+            <div class="tip-input">
+              <div class="btn-n btn">5%</div>
+              <div class="btn-n btn">10%</div>
+              <div class="btn-n btn">15%</div>
+              <div class="btn-n btn">25%</div>
+              <div class="btn-n btn">50%</div>
+              <div class="btn-n custom">
+                <input type="number" id="custom-input" placeholder="Custom" />
+              </div>
+            </div>
+          </div>
+          <div class="people input-container">
+            <h5>People</h5>
+            <small class="small">People can't be zero</small>
+            <input
+              type="number"
+              name="people"
+              id="People"
+              class="input-form"
+              placeholder="0"
+              
+            />
+            <img src="./images/icon-person.svg" alt="" />
+          </div>
+        </div>
+
+        <div class="col-2 main-cols">
+          <div class="row-1 row">
+            <div class="amount-1 amount">
+              Tip Amount<br />
+              <span>/person</span>
+            </div>
+            <div class="tip-value value">$0.00</div>
+          </div>
+          <div class="row-2 row">
+            <div class="amount-2 amount">
+              Total Amount<br /><span>/person</span>
+            </div>
+            <div class="total-value value">$0.00</div>
+          </div>
+          <button class="btn-reset" type="reset">Reset</button>
+        </div>
+      </div>
+      <div class="attribution">
+        <br> Coded by <a href="https://twitter.com/KaurPrabhtwt">Prabhjot Kaur</a>.
+      </div>
+    </main>
+
+    
+    <script src="./JS/main.js"></script>
+  </body>
+</html>
