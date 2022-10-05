@@ -1,0 +1,87 @@
+body{
+   background-image: url('https://source.unsplash.com/random/?nature');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+
+    
+}
+.card{
+   
+   background-color: rgb(4, 4, 4);
+   color: white;
+   padding: 25px;
+   margin: 10px;
+  border-radius: 30px;
+  width: 100%;
+  font-family: 'Poppins', sans-serif;
+  max-width: 400px;
+ 
+ 
+
+}
+.search{
+  display: flex;
+  justify-content: center;
+  
+}
+.search-btn{
+  margin: 2px;
+  border-radius: 30px;
+
+  cursor: pointer;
+  
+}
+.search-btn{
+    background-color: rgba(95, 77, 62, 0.893);
+}
+
+.search-btn:hover{ 
+    background-color: rgb(114, 209, 85);
+    transition: 1ms   ease-in-out;
+
+}
+input{
+  border: none;
+  outline: none;
+  background-color: rgba(84, 68, 54, 0.893);
+  height: 1.8em;
+  color: white;
+  border-radius: 20px;
+  width: calc(100% - 100px);
+  padding: 10px;
+  font-size: medium;
+}
+.weather-type , .humid, .wind{
+    font-size: 20px;
+}
+.weather-type{
+    text-transform: capitalize;
+    margin-left: 10px;
+}
+.description{
+    display: flex;
+   
+    align-items: center;
+   
+}
+.weather.loading{
+    visibility: hidden;
+    max-height: 20px;
+    position: relative;
+}
+.weather.loading::after{
+    visibility: visible;
+    
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 20px;
+
+}
