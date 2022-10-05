@@ -38,5 +38,4 @@ let time = hours + ":" + minutes + ":" + seconds + " " + session;
     setTimeout(showtime,  1000);
 
 }
-
-    showtime();
+showtime();
