@@ -27,3 +27,8 @@
 - Place: India
 - Bio: Programmer
 - GitHub: [prabhkaur301](https://github.com/prabhkaur301)
+ 
+ ### Name: Pallavi singh
+ -place: India
+ -Bio: programmer
+ -Github:[pallavisingh123](https://github.com/Pallavisingh123)
