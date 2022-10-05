@@ -27,3 +27,8 @@
 - Place: India
 - Bio: Programmer
 - GitHub: [prabhkaur301](https://github.com/prabhkaur301)
+
+### Name: Jobanpreet Singh
+- Place: India
+- Bio: Programmer
+- GitHub: [13-Joban](https://github.com/13-Joban)
