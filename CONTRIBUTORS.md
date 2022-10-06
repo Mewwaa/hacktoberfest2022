@@ -27,3 +27,8 @@
 - Place: India
 - Bio: Programmer
 - GitHub: [prabhkaur301](https://github.com/prabhkaur301)
+
+### Name: Vaibhav Prajapati
+- Place: India
+- Bio: Student
+- GitHub: [VaibhavdLights](https://github.com/VaibhavdLights)
