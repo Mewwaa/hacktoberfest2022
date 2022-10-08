@@ -27,3 +27,8 @@
 - Place: India
 - Bio: Programmer
 - GitHub: [prabhkaur301](https://github.com/prabhkaur301)
+
+### Name: Anant Chaudhary
+- Place: India
+- Bio: Programmer
+- GitHub: [anant0070](https://github.com/anant0070)
