@@ -27,3 +27,8 @@
 - Place: India
 - Bio: Programmer
 - GitHub: [prabhkaur301](https://github.com/prabhkaur301)
+
+### Name: Max Muller
+- Place: Brasil
+- Bio: Programmer
+- GitHub: [MMVonnSeek](https://github.com/mmvonnseek)
