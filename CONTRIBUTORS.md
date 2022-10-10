@@ -27,3 +27,8 @@
 - Place: India
 - Bio: Programmer
 - GitHub: [prabhkaur301](https://github.com/prabhkaur301)
+
+### Name: Sandeepan Mohanty
+- Place: India
+- Bio: Programmer
+- GitHub: [CSESandeepan39](https://github.com/prabhkaur301))
