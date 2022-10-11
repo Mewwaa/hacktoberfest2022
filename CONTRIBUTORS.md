@@ -27,3 +27,8 @@
 - Place: India
 - Bio: Programmer
 - GitHub: [prabhkaur301](https://github.com/prabhkaur301)
+
+### Name: Kaustubh Shrivastava
+- Place: India
+- Bio: Programmer
+- GitHub: [kaustubh0201](https://github.com/kaustubh0201)
