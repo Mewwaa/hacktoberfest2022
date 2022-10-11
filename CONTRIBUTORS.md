@@ -27,3 +27,9 @@
 - Place: India
 - Bio: Programmer
 - GitHub: [prabhkaur301](https://github.com/prabhkaur301)
+
+### Name: Dhairyashil Shinde
+- Place: India
+- Bio: Programmer (Student)
+- GitHub: [dhairyashiil](https://github.com/dhairyashiil)
+
