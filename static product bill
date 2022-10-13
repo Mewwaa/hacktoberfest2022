@@ -1,0 +1,109 @@
+#include<iostream>
+#include<string>
+#include<stdio.h>
+using namespace std;
+class product{
+	
+	int id;
+	string productname;
+	int quantity;
+	int price;
+	
+	public:
+	int setid(int s);
+    string setproductname(string a);
+	int setquantity(int q);
+	int setprice(int p);
+	int total(int q,int p);
+    void getid();
+	void getproductname();
+	void getquantity();
+	void getprice();
+};
+
+    int product::setid(int s)
+	{
+		id=s;
+        return id;
+    }
+    string product::setproductname(string a)
+    {
+        productname=a;
+        return productname;
+    }
+    int product::setquantity(int q)
+	{
+		quantity=q;
+		return quantity;
+	}
+	int product::setprice(int p)
+	{
+		price=p;
+		return price;
+	}
+	void product::getid()
+	{
+		cout<<"item ID:"<<id<<endl;
+	}
+	void product::getproductname()
+	{
+		cout<<"item name:"<<productname<<endl;
+	}
+	void product::getquantity()
+	{
+		cout<<"item quantity:"<<quantity<<endl;
+	} 
+	void product::getprice()
+	{
+		cout<<"item price:"<<price<<endl;
+	}
+	int product::total(int q,int p)
+	{
+			int total;
+			total=q*p;
+			return total;
+
+	}
+	
+	int main()
+{	
+	product d[20];
+	int n,i,total_price,c,s,p,k,f,l,q,pri,totalbill=0;
+	string b,a;
+	cout<<"Enter how many iteams you want to enter"<<endl;
+	cin>>n;
+	for(i=1;i<=n;i++)
+	{
+		cout<<"Enter the product ID:";
+		cin>>s;
+		c=d[i].setid(s);
+		cout<<"Enter the product name:";
+		cin>>a;
+		b=d[i].setproductname(a);
+		cout<<"Enter the quantity:";
+		cin>>q;
+		f=d[i].setquantity(q);
+		cout<<"Enter the price of product:";
+		cin>>p;
+		pri=d[i].setprice(p);
+		cout<<"Total price:";
+		total_price=d[i].total(q,p);
+		cout<<total_price;
+		totalbill=totalbill+total_price;
+		cout<<endl;
+		cout<<endl;
+	}
+	cout<<"Total bill:"<<endl;
+	for(i=1;i<=n;i++)
+	{
+		d[i].getid();
+		d[i].getproductname();
+		d[i].getquantity();
+		d[i].getprice();
+		cout<<endl;
+	}
+	cout<<"total bill is:"<<totalbill;
+
+	
+	return 0;
+}
