@@ -27,3 +27,9 @@
 - Place: India
 - Bio: Programmer
 - GitHub: [prabhkaur301](https://github.com/prabhkaur301)
+
+
+### Name: Muhammad Immad
+- Place: Pakistan
+- Bio: Programmer
+- GitHub: [itsimmad](https://github.com/itsimmad)
