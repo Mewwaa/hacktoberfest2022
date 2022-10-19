@@ -27,3 +27,8 @@
 - Place: India
 - Bio: Programmer
 - GitHub: [prabhkaur301](https://github.com/prabhkaur301)
+
+### Name: Febri Tahta
+- Place: Indonesia
+- Bio: Programmer
+- GitHub: [FebriTahta](https://github.com/FebriTahta)
